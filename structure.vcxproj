@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Linked_List.c" />
     <ClCompile Include="Queue.c" />
+    <ClCompile Include="quickSort.c" />
     <ClCompile Include="Sequence.c" />
     <ClCompile Include="Stack.c" />
   </ItemGroup>
